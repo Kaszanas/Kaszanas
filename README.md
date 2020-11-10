@@ -18,5 +18,3 @@
 <p align="center">
     <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
 </p>
-
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=kaszanas&show_icons=true alt="kaszanas" /> </p>
