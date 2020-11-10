@@ -8,20 +8,15 @@
     </p>
 <br/>
 
-<p align="center">
-
-### Main Technologies:
+<h3 align="center">Main Technologies:</h3>
 <!-- Python -->
 <p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
 </p>
 
-
+<h4 align="center">Used Ocassionally:</h4>
 <p align="center">
-
-#### Used Ocassionally:
-
-<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="docker" width="40" height="40"/>
+    <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
 </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=kaszanas&show_icons=true alt="kaszanas" /> </p>
