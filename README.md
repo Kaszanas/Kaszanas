@@ -10,22 +10,12 @@
 
 ### Main Technologies:
 <!-- Python -->
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<!-- JavaScript -->
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<!-- Python Django -->
-<img src="https://devicon.dev/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-<!-- Docker -->
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<!-- PostgreSQL -->
-<img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
 
 
 #### Used Ocassionally:
-<!-- C++ -->
-<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-<!-- Golang -->
-<img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="docker" width="40" height="40"/>
+
+<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="docker" width="40" height="40"/>
 
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=kaszanas&show_icons=true alt="kaszanas" /> </p>
