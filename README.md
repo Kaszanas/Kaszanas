@@ -19,5 +19,5 @@
 
 <h4 align="center">Used Ocassionally:</h4>
 <p align="center">
-    <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
+    C++, Golang
 </p>
