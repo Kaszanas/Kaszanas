@@ -14,10 +14,10 @@
 <h3 align="center">Main Technologies:</h3>
 <!-- Python -->
 <p align="center">
-    Python, Golang, Django, Docker, PostgreSQL
+    Python, Django, Docker, PostgreSQL
 </p>
 
 <h4 align="center">Used Ocassionally:</h4>
 <p align="center">
-JavaScript, Rust
+JavaScript, Golang, Rust
 </p>
