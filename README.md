@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Andrzej</h1>
-<h3 align="center">Research Assistant</h3>
-<h3 align="center">DSHS Köln</h3>
-<h3 align="center">Institute of Exercise Training and Sport Informatics</h3>
 <h3 align="center">Founder @ ZdrowiGracze (HealthyGG)</h3>
 
 <p align="center">
