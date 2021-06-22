@@ -16,5 +16,5 @@
 
 <h4 align="center">Used Ocassionally:</h4>
 <p align="center">
-JavaScript, Rust
+C++, Dart (Flutter), JavaScript
 </p>
