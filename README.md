@@ -25,7 +25,7 @@ C++, Dart (Flutter), JavaScript
 </p>
 
 <h4 align="center">My Coding Stats:</h4>
-<p align="center">
+<div align="center">
 ![Kaszanas Github Stats](https://github-readme-stats.vercel.app/api?username=kaszanas&show_icons=true&count_private=true)
 ![Kaszanas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact?langs_count=5?username=Kaszanas)](https://github.com/Kaszanas)
-</p>
+</div>
