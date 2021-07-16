@@ -18,3 +18,5 @@
 <p align="center">
 C++, Dart (Flutter), JavaScript
 </p>
+
+![Kaszanas Github Stats](https://github-readme-stats.vercel.app/api?username=kaszanas&show_icons=true&count_private=true)
