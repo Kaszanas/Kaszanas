@@ -14,9 +14,18 @@
     Python, Golang, Django, Docker, PostgreSQL
 </p>
 
+<h4 align="center">Wanting To Master:</h4>
+<p align="center">
+C++, Rust, Dart (Flutter)
+</p>
+
 <h4 align="center">Used Ocassionally:</h4>
 <p align="center">
 C++, Dart (Flutter), JavaScript
 </p>
 
+<h4 align="center">My Coding Stats:</h4>
+<p align="center">
 ![Kaszanas Github Stats](https://github-readme-stats.vercel.app/api?username=kaszanas&show_icons=true&count_private=true)
+![Kaszanas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact?langs_count=5?username=Kaszanas)](https://github.com/Kaszanas)
+</p>
