@@ -8,7 +8,7 @@
     </p>
 <br/>
 
-<h3 align="center">Main Technologies:</h3>
+<h3 align="center">Mainly Used Languages:</h3>
 <!-- Python -->
 <p align="center">
     Python, Golang, Django, Docker, PostgreSQL
@@ -16,12 +16,22 @@
 
 <h4 align="center">Wanting To Master:</h4>
 <p align="center">
-C++, Rust, Dart (Flutter)
+C++, Dart (Flutter)
 </p>
 
 <h4 align="center">Used Ocassionally:</h4>
 <p align="center">
 C++, Dart (Flutter), JavaScript
+</p>
+
+<h4 align="center">Tools:</h4>
+<p align="center">
+Docker
+</p>
+
+<h4 align="center">OS:</h4>
+<p align="center">
+Windows, Linux
 </p>
 
 <h4 align="center">My Coding Stats:</h4>
