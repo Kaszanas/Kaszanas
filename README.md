@@ -16,7 +16,7 @@
 
 <h4 align="center">Wanting To Master:</h4>
 <p align="center">
-C++, Dart (Flutter)
+C++, Rust, Dart (Flutter)
 </p>
 
 <h4 align="center">Used Ocassionally:</h4>
