@@ -8,10 +8,10 @@
     </p>
 <br/>
 
-<h3 align="center">Mainly Used Tech:</h3>
+<h3 align="center">Mainly Used Languages:</h3>
 <!-- Python -->
 <p align="center">
-    Python, Golang, Django, Docker, PostgreSQL, NGINX
+    Python, Golang
 </p>
 
 <h4 align="center">Wanting To Master:</h4>
@@ -26,7 +26,7 @@ C++, Dart (Flutter), JavaScript
 
 <h4 align="center">Tools:</h4>
 <p align="center">
-Docker
+Docker, PostgreSQL, NGINX
 </p>
 
 <h4 align="center">OS:</h4>
