@@ -9,8 +9,7 @@
 <br/>
 
 <h4 align="center">My Coding Stats:</h4>
-<div style="test-align: center;">
 <a align="center" href="https://github.com/Kaszanas">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaszanas&show_icons=true&count_private=true" />
 </a>
-</div>
+
