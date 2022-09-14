@@ -8,32 +8,6 @@
     </p>
 <br/>
 
-<h3 align="center">Mainly Used Languages:</h3>
-<!-- Python -->
-<p align="center">
-    Python, Golang
-</p>
-
-<h4 align="center">Wanting To Master:</h4>
-<p align="center">
-C++, Rust, Dart (Flutter)
-</p>
-
-<h4 align="center">Used Ocassionally:</h4>
-<p align="center">
-C++, Dart (Flutter), JavaScript
-</p>
-
-<h4 align="center">Tools:</h4>
-<p align="center">
-Docker, PostgreSQL, NGINX
-</p>
-
-<h4 align="center">OS:</h4>
-<p align="center">
-Windows, Linux
-</p>
-
 <h4 align="center">My Coding Stats:</h4>
 <a href="https://github.com/Kaszanas">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaszanas&show_icons=true&count_private=true" />
