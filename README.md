@@ -7,7 +7,7 @@
     <a href="https://www.researchgate.net/profile/Andrzej-Bialecki-2" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/researchgate.svg" alt="researchgate-andrzej-bialecki" height="20" width="20" /></a>
     <a href="https://www.linkedin.com/in/andrzej-bialecki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-andrzej-bialecki" height="20" width="20" /></a>
     </p>
-<br/>
+
 
 <h4 align="center">Photo, Video, and Other:</h4>
 
