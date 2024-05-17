@@ -15,6 +15,7 @@
     <a href="https://twitter.com/Kaszanas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter-kaszanas" height="20" width="20" /></a>
     <a href="https://www.youtube.com/@Kaszanas" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/youtube.svg" alt="youtube-kaszanas" height="20" width="20" /></a>
     <a href="https://open.spotify.com/artist/0KbYCEtGsAVlwqjoaCJkEl?si=pdpUuvsCSZGYsALmbP3cwg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="youtube-kaszanas" height="20" width="20" /></a>
+    <a href="https://www.twitch.tv/kaszanas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch-kaszanas" height="20" width="20" /></a>
     <a href="https://www.instagram.com/kaszanas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram-kaszanas" height="20" width="20" /></a>
 </p>
 
