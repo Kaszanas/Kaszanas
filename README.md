@@ -4,63 +4,31 @@
 <h4 align="center">Research and Professional:</h4>
 <p align="center">
     <a href="https://www.researchgate.net/profile/Andrzej-Bialecki-2" target="blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/researchgate/white">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/researchgate/000000">
-            <img src="https://cdn.simpleicons.org/researchgate/000000" alt="researchgate" height="20" width="20" />
-        </picture>
+        <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" height="40" />
     </a>
     <a href="https://scholar.google.com/citations?user=lts1VPkAAAAJ" target="blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlescholar/white">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/googlescholar/000000">
-            <img src="https://cdn.simpleicons.org/googlescholar/000000" alt="google scholar" height="20" width="20" />
-        </picture>
+        <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" height="40" />
     </a>
     <a href="https://www.linkedin.com/in/andrzej-bialecki/" target="blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/linkedin/000000">
-            <img src="https://cdn.simpleicons.org/linkedin/000000" alt="linkedin" height="20" width="20" />
-        </picture>
+        <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
     </a>
 </p>
 
 <h4 align="center">Photo, Video, and Other:</h4>
 <p align="center">
     <a href="https://twitter.com/Kaszanas" target="blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/twitter/white">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/twitter/000000">
-            <img src="https://cdn.simpleicons.org/twitter/000000" alt="twitter" height="20" width="20" />
-        </picture>
+        <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo" />
     </a>
     <a href="https://www.youtube.com/@Kaszanas" target="blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/white">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/youtube/000000">
-            <img src="https://cdn.simpleicons.org/youtube/000000" alt="youtube" height="20" width="20" />
-        </picture>
+        <img src="https://skillicons.dev/icons?i=youtube" height="40" alt="youtube logo" />
     </a>
     <a href="https://open.spotify.com/artist/0KbYCEtGsAVlwqjoaCJkEl?si=pdpUuvsCSZGYsALmbP3cwg" target="blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/spotify/white">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/spotify/000000">
-            <img src="https://cdn.simpleicons.org/spotify/000000" alt="spotify" height="20" width="20" />
-        </picture>
+        <img src="https://skillicons.dev/icons?i=spotify" height="40" alt="spotify logo" />
     </a>
     <a href="https://www.twitch.tv/kaszanas" target="blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/twitch/white">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/twitch/000000">
-            <img src="https://cdn.simpleicons.org/twitch/000000" alt="twitch" height="20" width="20" />
-        </picture>
+        <img src="https://skillicons.dev/icons?i=twitch" height="40" alt="twitch logo" />
     </a>
     <a href="https://www.instagram.com/kaszanas/" target="blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/instagram/000000">
-            <img src="https://cdn.simpleicons.org/instagram/000000" alt="instagram" height="20" width="20" />
-        </picture>
+        <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
     </a>
 </p>
