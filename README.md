@@ -18,9 +18,3 @@
     <a href="https://www.twitch.tv/kaszanas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch-kaszanas" height="20" width="20" /></a>
     <a href="https://www.instagram.com/kaszanas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram-kaszanas" height="20" width="20" /></a>
 </p>
-
-<h4 align="center">My Coding Stats:</h4>
-<a align="center" href="https://github.com/Kaszanas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaszanas&layout=compact&hide=javascript,html,css,autohotkey,jupyter%20notebook&count_private=true" />
-</a>
-
