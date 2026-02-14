@@ -32,3 +32,17 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
 </p>
+
+<h4 align="center">My Coding Stats:</h4>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=Kaszanas&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=Kaszanas&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kaszanas&show_icons=true" />
+</picture>
