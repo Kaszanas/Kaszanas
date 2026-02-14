@@ -17,7 +17,7 @@
 <h4 align="center">Photo, Video, and Other:</h4>
 <p align="center">
     <a href="https://twitter.com/Kaszanas" target="blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+        <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
     </a>
     <a href="https://www.youtube.com/@Kaszanas" target="blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
