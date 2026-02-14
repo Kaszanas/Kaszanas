@@ -35,7 +35,7 @@
 
 <h4 align="center">My Coding Stats:</h4>
 
-<picture>
+<picture align="center">
   <source
     srcset="https://github-readme-stats-fast.vercel.app/api?username=Kaszanas&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
